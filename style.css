@@ -3,7 +3,7 @@
     width: 100%;
     margin: 0px;
     box-shadow: 5px 5px 5px grey;
-    height: 28%;
+    height: 30%;
 }
 
 body{
@@ -14,7 +14,7 @@ body{
 .heading_div {
     float: none;
     background: white;
-    padding: 10px;
+    padding: 5px;
     border-radius: 20px;
     color: black;
     box-shadow: 5px 5px 5px grey;
@@ -22,13 +22,13 @@ body{
 }
 
 .heading_div2 {
-    font-size: 18px;
+    font-size: 24px;
 }
 
 .result_para_tag {
     box-shadow: 5px 5px 5px grey;
     font-size: 15px;
-    margin-top: 15px;
+    margin-top: 5px;
 }
 
 .copy_right_footer {
@@ -45,5 +45,5 @@ canvas {
     border: 5px solid white;
     border-radius: 20px;
     box-shadow: 5px 5px 5px grey;
-    margin-top: 130px;
+    margin-top: 115px;
 }
